@@ -1,0 +1,8 @@
+print('Good morning Thursday')
+print('Good evening Thursday')
+print('Good morning Friday')
+print('Good evening Friday')
+print('Good morning Saturday')
+print('Good evening Saturday')
+print('Good morning Sunday')
+print('Good evening Sunday')
